@@ -1,0 +1,2 @@
+class UrlsVisited < ApplicationRecord
+end
